@@ -1,0 +1,4 @@
+AccountName	AccountNumber	Date	DescriptionOfTheEntry	PostingReference	Debit	Credit	DebitBalance	CreditBalance
+	12345678	2021-05-31	2211	845	425	85	721	98
+	12345678	2021-05-31	548	54	214	256	532	21
+	12345678	2021-05-31	358	5649	100	32      230     777
